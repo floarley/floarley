@@ -38,8 +38,8 @@
     <td valign="top" width="50%">
       <h4>🐍 Backend & Automation</h4>
       <ul>
-        <li><b>Languages:</b> Python (Синтаксис, базовые структуры, скрипты автоматизации)</li>
-        <li><b>Web Frameworks:</b> FastAPI (Разработка защищенных REST API эндпоинтов)</li>
+        <li><b>Languages:</b> Python </li>
+        <li><b>Web Frameworks:</b> FastAPI </li>
         <li><b>Automation:</b> Написание кастомных утилит/фаззеров (Requests)</li>
       </ul>
     </td>
