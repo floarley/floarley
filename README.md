@@ -46,7 +46,6 @@
       <ul>
         <li><b>Languages:</b> Python </li>
         <li><b>Web Frameworks:</b> FastAPI </li>
-        <li><b>Automation:</b> Написание кастомных утилит/фаззеров (Requests)</li>
       </ul>
     </td>
   </tr>
